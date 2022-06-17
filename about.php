@@ -151,7 +151,7 @@ include("includes/db.php");
                    </i>
                    <span>4 items in Cart</span>
                </a>
-               <div class="navbar-collapse collapse right">  <!-- navbar-collapse collapse-right start-->
+               <div class="navbar-collapse collapse right">  <!-- navbar-collapse collapse-right start here-->
                    
                    <button class="btn navbar-btn btn-primary" type="button" data-toggle="collapse" data-target="#search">
                        <span class="sr-only">Toggle Search</span>
